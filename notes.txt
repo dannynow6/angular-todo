@@ -1,0 +1,8 @@
+When done with an angular app:
+
+run:
+ng build -c production 
+
+See: 
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_building
